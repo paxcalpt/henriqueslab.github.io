@@ -1,8 +1,8 @@
 ---
 title: "The Field Guide to 3D Printing in Microscopy"
 collection: publications
-date: 2021-03-23
-venue: 'preprints.org'
+date: 2021-05-14
+venue: 'Preprints.org'
 authors: 'Mario Del Rosario, Hannah S. Heil, Afonso Mendes, Vittorio Saggiomo, Ricardo Henriques'
 paperurl: https://www.biorxiv.org/content/10.1101/2021.03.23.436559v1.abstract
 type: 'Preprint, Review, Corresponding author'
