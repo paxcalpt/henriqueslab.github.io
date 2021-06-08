@@ -4,7 +4,7 @@ collection: publications
 date: 2021-05-14
 venue: 'Preprints.org'
 authors: 'Mario Del Rosario, Hannah S. Heil, Afonso Mendes, Vittorio Saggiomo, Ricardo Henriques'
-paperurl: https://www.biorxiv.org/content/10.1101/2021.03.23.436559v1.abstract
+paperurl: https://doi.org/10.20944/preprints202105.0352.v1
 type: 'Preprint, Review, Corresponding author'
 doi: https://doi.org/10.20944/preprints202105.0352.v1
 theme: "methods, hardware, software"
