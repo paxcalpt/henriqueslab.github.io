@@ -5,7 +5,7 @@ date: 2021-11-03
 venue: 'bioRxiv'
 authors: 'Christoph Spahn, Romain F. Laine, Pedro Matos Pereira, Estibaliz Gómez-de-Mariscal, Lucas von Chamier, Mia Conduit, Mariana Gomes de Pinho, Guillaume Jacquemet, Séamus Holden, Mike Heilemann, Ricardo Henriques'
 paperurl: https://www.biorxiv.org/content/10.1101/2021.03.23.436559v1.abstract
-type: 'Preprint, Paper, Corresponding author'
+type: 'Preprint, Corresponding author'
 doi: https://doi.org/10.1101/2021.11.03.467152
 theme: 'software, methods'
 resources: 'CARE, ZeroCostDL4Mic'
