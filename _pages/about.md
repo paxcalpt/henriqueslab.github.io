@@ -27,9 +27,13 @@ We like to think of ourselves as <b>optical cell biologists</b>. We focus on add
 
 ### The Laboratory
 
-We're currently moving the laboratory from the [MRC Laboratory for Molecular Cell Biology](https://www.ucl.ac.uk/lmcb/) in [University College London](https://www.ucl.ac.uk/) to the [Instituto Gulbenkian de Ciência](https://gulbenkian.pt/ciencia/). In the past we've had an additional small laboratory at [The Francis Crick Institute](https://www.crick.ac.uk/). Check out our [research page](research) to know more about what we do.
+We're recently moved moving the laboratory from the [MRC Laboratory for Molecular Cell Biology](https://www.ucl.ac.uk/lmcb/) in [University College London](https://www.ucl.ac.uk/) to the [Instituto Gulbenkian de Ciência](https://gulbenkian.pt/ciencia/). In the past we've had an additional small laboratory at [The Francis Crick Institute](https://www.crick.ac.uk/). Check out our [research page](research) to know more about what we do.
 
 <img src='/images/LabPhoto.jpg' style='width: 100%'>
+The [Instituto Gulbenkian de Ciência Lab](https://gulbenkian.pt/ciencia/research-groups/rhenriques/)
+
+<img src='/images/LabPhoto.jpg' style='width: 100%'>
+The [MRC Laboratory for Molecular Cell Biology Lab](https://www.ucl.ac.uk/lmcb/users/ricardo-henriques) in [University College London](https://www.ucl.ac.uk/)
 
 ### What we do
 
