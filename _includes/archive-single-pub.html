@@ -87,6 +87,8 @@
         <img src="{{ "cover_viruses.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% elsif post.venue == "Biological Imaging" %}
         <img src="{{ "cover_biologicalimaging.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Advanced Biology" %}
+        <img src="{{ "cover_advancedbiology.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% else %}
         <img src="{{ "journal.png" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% endif %}
