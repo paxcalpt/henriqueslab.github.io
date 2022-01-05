@@ -89,6 +89,8 @@
         <img src="{{ "cover_biologicalimaging.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% elsif post.venue == "Advanced Biology" %}
         <img src="{{ "cover_advancedbiology.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "PNAS" %}
+        <img src="{{ "cover_pnas.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% else %}
         <img src="{{ "journal.png" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% endif %}
