@@ -4,7 +4,7 @@ collection: publications
 date: 2022-02-18
 venue: 'arXiv'
 authors: 'Afonso Mendes, Hannah S. Heil, Simao Coelho, Christophe Leterrier, Ricardo Henriques'
-paperurl: https://www.biorxiv.org/content/10.1101/2021.03.23.436559v1.abstract
+paperurl: https://arxiv.org/abs/2202.08765
 type: 'Preprint, Corresponding author'
 doi: https://doi.org/10.48550/arXiv.2202.08765
 theme: "structural biology, software, methods"
