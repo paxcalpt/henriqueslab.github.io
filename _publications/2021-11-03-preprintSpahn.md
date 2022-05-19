@@ -3,7 +3,7 @@ title: "DeepBacs: Bacterial image analysis using open-source deep learning appro
 collection: publications
 date: 2021-11-03
 venue: 'bioRxiv'
-authors: 'Christoph Spahn, Romain F. Laine, Pedro Matos Pereira, Estibaliz Gómez-de-Mariscal, Lucas von Chamier, Mia Conduit, Mariana Gomes de Pinho, Guillaume Jacquemet, Séamus Holden, Mike Heilemann, Ricardo Henriques'
+authors: 'Christoph Spahn, Estibaliz Gómez-de-Mariscal, Romain F. Laine, Pedro Matos Pereira, Estibaliz Gómez-de-Mariscal, Lucas von Chamier, Mia Conduit, Mariana Gomes de Pinho, Guillaume Jacquemet, Séamus Holden, Mike Heilemann, Ricardo Henriques'
 paperurl: https://www.biorxiv.org/content/10.1101/2021.11.03.467152v1?rss=1
 type: 'Preprint, Corresponding author'
 doi: https://doi.org/10.1101/2021.11.03.467152
