@@ -3,7 +3,7 @@ title: "Expansion Microscopy on Saccharomyces cerevisiae"
 collection: publications
 date: 2022-04-05
 venue: 'microPublication Biology'
-authors: 'Artemis G. Korovesi, Leonor Morgado, Marco Fumasoni, Ricardo Henriques, Hannah S. Heil, and Mario Del Rosario'
+authors: 'Artemis G. Korovesi, Leonor Morgado, Marco Fumasoni, Ricardo Henriques, Hannah S. Heil, Mario Del Rosario'
 paperurl: https://www.micropublication.org/journals/biology/micropub-biology-000566
 type: 'Paper'
 doi: https://doi.org/10.22002/D1.20159
