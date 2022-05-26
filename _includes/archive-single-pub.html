@@ -95,6 +95,8 @@
         <img src="{{ "cover_arxiv.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% elsif post.venue == "microPublication Biology" %}
         <img src="{{ "cover_microPublicationBiology.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Trends in Biotechnology" %}
+        <img src="{{ "cover_trendsInBiotechnology.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% else %}
         <img src="{{ "journal.png" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% endif %}
