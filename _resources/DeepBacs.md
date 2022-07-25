@@ -4,7 +4,7 @@ tag: "DeepBacs"
 type: "software"
 collection: resources
 author_profile: true
-date: 2013-01-05
+date: 2021-11-03
 header:
   teaser: DeepBacs.jpg
 layout: archive
