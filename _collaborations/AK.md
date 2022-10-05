@@ -5,7 +5,7 @@ collection: collaborations
 header:
   teaser: AK.jpg
 tags: collaborator
-start-date: 2013-09-01
+start-date: 2022-01-01
 tagline: "AI4Life - AI methods to facilitate microscopy image analysis"
 subject: "Development of open platforms to make AI more easily accessible to biology researchers"
 email: 'anna.kreshuk@embl.de'
