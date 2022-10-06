@@ -6,8 +6,8 @@ header:
   teaser: AK.jpg
 tags: collaborator
 start-date: 2022-01-01
-tagline: "AI4Life - AI methods to facilitate microscopy image analysis"
-subject: "Development of open platforms to make AI more easily accessible to biology researchers"
+tagline: "Machine learning for bioimage analysis, EMBL, DE"
+subject: "AI4Life - AI methods to facilitate microscopy image analysis"
 email: 'anna.kreshuk@embl.de'
 googlescholar: https://scholar.google.com/citations?user=u4BlQBYAAAAJ&hl=en
 uri: https://www.embl.org/groups/kreshuk/
