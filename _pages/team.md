@@ -45,6 +45,19 @@ author_profile: true
 </div>
 
 <hr-bold>
+<h2>Master students</h2>
+<hr><br>
+<div class="grid">
+<div class="wrapper">
+  {% for post in site.team %}
+    {% if post.tags contains 'msc' %}
+      {% include archive-single-proj.html type="grid" %}
+    {% endif %}
+  {% endfor %}
+</div>
+</div>
+
+<hr-bold>
 <h2>Internship students</h2>
 <hr><br>
 <div class="grid">
