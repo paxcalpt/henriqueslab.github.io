@@ -3,7 +3,7 @@ title: "Fast4DReg: Fast registration of 4D microscopy datasets"
 collection: publications
 date: 2022-08-25
 venue: 'bioRxiv'
-authors: 'Joanna W Pylvänäinen, Romain F Laine, Sujan Ghimire, Gautier Follain, Ricardo Henriques, Guillaume Jacquemet'
+authors: 'Joanna W Pylvänäinen, Romain F Laine, Bruno MS Saraiva, Sujan Ghimire, Gautier Follain, Ricardo Henriques, Guillaume Jacquemet'
 paperurl: https://www.biorxiv.org/content/10.1101/2022.08.22.504744
 type: 'Preprint'
 doi: https://doi.org/10.1101/2022.08.22.504744
