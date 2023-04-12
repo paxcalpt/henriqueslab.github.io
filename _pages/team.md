@@ -19,6 +19,19 @@ author_profile: true
 </div>
 
 <hr-bold>
+<h2>Software engineers</h2>
+<hr><br>
+<div class="grid">
+<div class="wrapper">
+  {% for post in site.team %}
+    {% if post.tags contains 'se' %}
+      {% include archive-single-proj.html type="grid" %}
+    {% endif %}
+  {% endfor %}
+  </div>
+  </div>
+
+<hr-bold>
 <h2>Post-doctoral researchers</h2>
 <hr><br>
 <div class="grid">
