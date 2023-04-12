@@ -8,6 +8,18 @@ on:
       - '**.jpeg'
       - '**.png'
       - '**.gif'
+  # creates a button
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        description: "Log level"
+        required: true
+        default: "warning"
+        type: choice
+        options:
+          - info
+          - warning
+          - debug      
 jobs:
   crush:
     runs-on: [self-hosted, deepthought]
