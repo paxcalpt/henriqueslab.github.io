@@ -4,9 +4,9 @@ collection: publications
 date: 2022-12-13
 venue: "American Chemical Society"
 authors: "Daria Aristova, Roman Selin, Hannah Sophie Heil, Viktoriia Kosach, Yuriy Slominsky, Sergiy Yarmoluk, Vasyl Pekhnyo, Vladyslava Kovalska, Ricardo Henriques, Andriy Mokhir, Svitlana Chernii"
-paperurl: https://journals.biologists.com/jcs/article/136/4/jcs260728/287682/Fast4DReg-fast-registration-of-4D-microscopy
+paperurl: https://doi.org/10.1021/acsomega.2c05231
 type: "Paper"
-doi: https://doi.org/10.1242/jcs.260728
+doi: https://doi.org/10.1021/acsomega.2c05231
 theme: "probes, methods"
 ---
 
