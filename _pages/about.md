@@ -16,10 +16,9 @@ image_sliders:
 <img src='/images/HenriquesLabLogo.jpg' style='width: 75%'>
 </div>
 
-# New website !!!
+# We're moving our website !!!
 
-Hi... this site is old. We've just moved to a new website in [henriqueslab.org](https://henriqueslab.org). We're still in the process of migrating content, so please bear with us. For our most updated content, please visit us [there](https://henriqueslab.org).
-
+We've just moved to a new website in _[henriqueslab.org](https://henriqueslab.org)_. We're still in the process of migrating content, so please bear with us. For our most updated content, please visit us _[there](https://henriqueslab.org)_.
 <meta http-equiv = "refresh" content = "3; url = https://henriqueslab.org" />
 
 ### Who are we
