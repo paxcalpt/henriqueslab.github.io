@@ -8,6 +8,8 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
+# Add the jekyll-redirect-from gem to your Jekyll project
+gem "jekyll-redirect-from"
 
 gem "github-pages", group: :jekyll_plugins
 #gem 'jekyll-twitter-plugin', group: :jekyll_plugins
