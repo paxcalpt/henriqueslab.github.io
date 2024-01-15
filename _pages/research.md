@@ -3,12 +3,11 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
-redirect_from:
-  - /research/
-redirect_to:
-  - https://henriqueslab.org/pages/research
 ---
 {% include base_path %}
+
+{::options parse_block_html="true" /}
+<meta http-equiv = "refresh" content = "1; url = https://henriqueslab.org/pages/research" />
 
 <div class="grid">
   <div class="wrapper">

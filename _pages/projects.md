@@ -7,6 +7,9 @@ sidebar:
   nav: "Projs"
 ---
 
+{::options parse_block_html="true" /}
+<meta http-equiv = "refresh" content = "1; url = https://henriqueslab.org/pages/research" />
+
 <h2>Main Research Topics</h2>
 <hr>
 <div class="grid__wrapper">

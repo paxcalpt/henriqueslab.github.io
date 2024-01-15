@@ -6,6 +6,9 @@ author_profile: true
 ---
 {% include base_path %}
 
+{::options parse_block_html="true" /}
+<meta http-equiv = "refresh" content = "1; url = https://henriqueslab.org/pages/technology" />
+
 <div class="grid">
   <div class="wrapper">
     {% for post in site.resources %}

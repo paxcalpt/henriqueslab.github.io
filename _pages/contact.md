@@ -4,6 +4,8 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
+{::options parse_block_html="true" /}
+<meta http-equiv = "refresh" content = "1; url = https://henriqueslab.org/pages/contact" />
 
 <h2> Address information </h2>
 

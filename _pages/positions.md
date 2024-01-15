@@ -5,6 +5,7 @@ permalink: /positions/
 author_profile: true
 ---
 
+
 <div style="text-align: center">
 <img src='/images/HenriquesLabLogo.jpg' style='width: 75%'>
 </div>

@@ -11,6 +11,7 @@ image_sliders:
 ---
 
 {::options parse_block_html="true" /}
+<meta http-equiv = "refresh" content = "1; url = https://henriqueslab.org" />
 
 <div style="text-align: center">
 <img src='/images/HenriquesLabLogo.jpg' style='width: 75%'>
@@ -19,7 +20,7 @@ image_sliders:
 # We're moving our website !!!
 
 We've just moved to a new website in _[henriqueslab.org](https://henriqueslab.org)_. We're still in the process of migrating content, so please bear with us. For our most updated content, please visit us _[there](https://henriqueslab.org)_.
-<meta http-equiv = "refresh" content = "3; url = https://henriqueslab.org" />
+
 
 ### Who are we
 

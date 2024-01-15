@@ -5,6 +5,9 @@ permalink: /team/
 author_profile: true
 ---
 
+{::options parse_block_html="true" /}
+<meta http-equiv = "refresh" content = "1; url = https://henriqueslab.org/pages/team" />
+
 <hr-bold>
 <h2>Principal Investigator</h2>
 <hr><br>
